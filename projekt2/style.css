@@ -1,0 +1,18 @@
+body{
+    background-color: saddlebrown;
+}
+.container{
+    background-color: antiquewhite;
+}
+a:link, a:visited, a:active{
+    color: antiquewhite;
+}
+a:hover{
+    color: peru;
+}
+#img{
+    width: 400px;
+}
+#ikon{
+    width: 70px;
+}
